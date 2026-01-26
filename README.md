@@ -4,7 +4,7 @@
 
 ___
 
-![alt_text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/core.JPG)
+![alt_text](https://github.com/minilogique/A5T/blob/main/images/goliath%20a5t.png)
 ___
 
 > [!WARNING]
