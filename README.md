@@ -4,14 +4,7 @@
 
 ___
 
-[![WKSuzuki Designs](https://discord.com/api/guilds/1449059844790161642/widget.png?style=banner2)](https://discord.gg/kPjy654uV4)
-
-+ Credit goes to Sir DW Tas, who provided the original A4T and helped us with figuring out simulations.
-
-<img src="./images/A5T.png">
-
-<img src="./images/whisker-a5t.gif">
-
+![alt_text](https://github.com/minilogique/ww-extruder-for-idga/blob/main/images/core.JPG)
 ___
 
 > [!WARNING]
