@@ -5,6 +5,7 @@
 - This version is made for M3 flatheads. You need to drill and tap the radiator for M3 bolts. Reasoning behind this is that the M2.5 bolts that I got with the toolhead were soft as shi-, so to properly fix that I just upped the size. 
 - Flatheads instead of normals for maximizing plastic above the radiator, extruder might not sit flush with the top of the shroud but instead on the flatheads themselves - heating the bolt a bit when tightening can alleviate that.
 - 2510 fan is bolted directly into plastic with M3 bolts, do not manhandle it. 4 bolts is perfect, 2 is enough.
+- Two topmost bolts are either normal hexhead or flat hex M3x30 compared to what A4T/A5T extruder adapter used to use. They are not needed, but add considerable amount of rigidity.
 
 
 ___
