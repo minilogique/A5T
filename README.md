@@ -19,7 +19,7 @@ ___
 > Use paint on supports for the duct enterances.
 
 > [!WARNING]
-> Only one M3x5 heat insert is used, look the picture. Rest of them are melted into the fans like for Reaper toolhead and mounted with regular M3 bolts.
+> Only one M3x5 heat insert is used for the cowl, look the picture. Rest of them are melted into the fans like for Reaper toolhead and mounted with regular M3 bolts.
 ![alt_text](https://github.com/minilogique/A5T/blob/main/images/asdasd.png)
 
 ___
