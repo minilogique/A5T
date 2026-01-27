@@ -1,6 +1,6 @@
 # A5T
 
-![alt_text](https://github.com/minilogique/A5T/blob/main/images/goliath%20a5t.png)
+![alt_text](https://github.com/minilogique/A5T/blob/main/images/1.png)
 
 + **A5T is currently in testing; if you want to help out, ping the creator in Discord at @suzu00071 or join WKSuzuki Designs**
 
@@ -12,7 +12,7 @@
 
 ___
 
-![alt_text](https://github.com/minilogique/A5T/blob/main/images/1.png)
+![alt_text](https://github.com/minilogique/A5T/blob/main/images/2.png)
 ___
 
 > [!WARNING]
