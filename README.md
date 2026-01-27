@@ -1,5 +1,7 @@
 # A5T
 
+![alt_text](https://github.com/minilogique/A5T/blob/main/images/goliath%20a5t.png)
+
 + **A5T is currently in testing; if you want to help out, ping the creator in Discord at @suzu00071 or join WKSuzuki Designs**
 
 - This version is made for M3 flatheads. You need to drill and tap the radiator for M3 bolts. Reasoning behind this is that the M2.5 bolts that I got with the toolhead were soft as shi-, so to properly fix that I just upped the size. 
@@ -10,7 +12,7 @@
 
 ___
 
-![alt_text](https://github.com/minilogique/A5T/blob/main/images/goliath%20a5t.png)
+![alt_text](https://github.com/minilogique/A5T/blob/main/images/1.png)
 ___
 
 > [!WARNING]
