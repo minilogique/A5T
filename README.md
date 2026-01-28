@@ -19,7 +19,7 @@ ___
 > A5T is not an easy print.
 
 > [!NOTE]
-> Use paint on supports for the duct enterances.
+> Use paint on supports for the duct enterances. Also made an M2.5 version but that has just abit over 3mm of plastic supporting the hotend. Use it at your own risk.
 
 > [!WARNING]
 > Only one M3x5 heat insert is used for the cowl, look the picture. Rest of them are melted into the fans like for Reaper toolhead and mounted with regular M3 bolts.
