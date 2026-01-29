@@ -23,7 +23,7 @@ ___
 > Use paint on supports for the duct enterances. Also made an M2.5 version but that has just abit over 3mm of plastic supporting the hotend. Use it at your own risk.
 
 > [!WARNING]
-> Only one M3x5 heat insert is used for the cowl, look the picture. Rest of them are melted into the fans like for Reaper toolhead and mounted with regular M3 bolts.
+> Only one M3x5 heat insert is used for the cowl, look the picture. Rest of them are melted into the fans like for Reaper toolhead and mounted with regular M3 bolts. IF you are having issues with your toolhead mount not clearing the fan bolts, then use flatheads instead of normal bolts.
 ![alt_text](https://github.com/minilogique/A5T/blob/main/images/asdasd.png)
 
 ___
